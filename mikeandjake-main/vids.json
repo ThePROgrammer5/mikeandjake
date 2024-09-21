@@ -1,0 +1,20 @@
+[
+    {
+      "href": "vids/vid1.html",
+      "img": "img/thumb1.jpg",
+      "title": "Video 1",
+      "description": "This is the first video."
+    },
+    {
+      "href": "vids/vid2.html",
+      "img": "img/thumb2.jpg",
+      "title": "Video 2",
+      "description": "This is the second video."
+    },
+    {
+      "href": "vids/vid3.html",
+      "img": "img/thumb3.jpg",
+      "title": "Video 3",
+      "description": "This is the third video."
+    }
+  ]
